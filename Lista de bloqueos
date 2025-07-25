@@ -1,0 +1,38 @@
+# mi lista de bloqueo DNS
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+#lista de URL paginas ilegales coljuegos
+0.0.0.0 bet365.com
+0.0.0.0 sunvegascasino.com
+0.0.0.0 winwardcasino.ag
+0.0.0.0 maria.com
+0.0.0.0 21nova.es
+0.0.0.0 newcasinos.bg
+0.0.0.0 casinoonlineperu.pe
+0.0.0.0 casinoadvisor.com
+0.0.0.0 crazyvegas.com
+0.0.0.0 legal-gambling-usa.com
+0.0.0.0 pokerforums.org
+0.0.0.0 casinos.com.es
+0.0.0.0 mbitcasino.com
+0.0.0.0 sportingpedia.com
+0.0.0.0 casinoestrella100.com
+0.0.0.0 247bets.co.za
+0.0.0.0 forvetbet70.com
+0.0.0.0 luckybetz.com
+0.0.0.0 casinoperu.pe
+0.0.0.0 uspokersites.com
+0.0.0.0 casinoguide.com
+
